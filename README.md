@@ -12,6 +12,25 @@ Whether you are starting a new online business or transforming an existing retai
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Product Page**
+
+![Product Page](screenshots/2-product.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## Custom E-commerce Website Development Services
 
 An e-commerce website allows businesses to showcase products, attract customers, accept online orders, process payments, and manage their sales through a digital platform.
@@ -309,20 +328,3 @@ Let's discuss your requirements and develop an e-commerce solution aligned with 
 This repository serves as a service and project showcase for e-commerce website development by Naya Prayog Technologies.
 
 It does not grant permission to redistribute, resell, or commercially reuse proprietary company materials or software. Project-specific source code, deliverables, and licensing terms are agreed separately.
-
-<!-- screenshots -->
-## Screenshots
-
-**Home**
-
-![Home](screenshots/1-home.png)
-
-**Product Page**
-
-![Product Page](screenshots/2-product.png)
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
-  </tr>
-</table>
